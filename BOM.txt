@@ -1,0 +1,52 @@
+Mandatory:
+
+---------------------------------------------
+
+Main body: 			4x m3x50
+				4x m3 hexnut
+		
+Part cooling fan:		2x m3x18-20
+
+Part cooling fan duct:		2x m3x6-10
+				2x m3x6-10
+
+Hotend cooling fan:		2x m3x18-20
+
+Hotend cooling fan duct:	2x m3x6-10	
+
+Mounting plate: 		3x m3x10
+				3x m3 hexnut
+---------------------------------------------
+
+
+
+Mounting plate to printer:
+
+---------------------------------------------
+
+Ender 3:			2x m3x8
+
+---------------------------------------------
+
+
+
+Optional:
+
+---------------------------------------------
+
+Front bucket lid:		2x m3x8
+				2x m3 hexnut
+
+Z probe adapter BL-touch:	3x m3x8
+				2x m3x6
+				5x hexnut
+
+Z probe adapter cartographer:	3x m3x10
+	same as beacon rev-D	2x m3x8
+				1x m3x20-25
+				5x hexnut
+
+
+
+
+---------------------------------------------
