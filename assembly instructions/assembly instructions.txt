@@ -13,7 +13,7 @@ You can screw in the nozzle at this point though that can also be done once its 
 
 Press the Inlet Rotor on top of the Pellet screw as far down as possible.
 Make sure it is aligned right next to the inlet. 
-After that you can already put the coupler on the screw and tighten it down.
+After that you can already put the coupler on the screw and tighten it down as much as possible.
 I suggest getting some torx screws to allow better tightening without stripping the screw.
 The coupler uses m2.5x8 screws.
 
@@ -32,11 +32,18 @@ Step two: 	Screw the Hotend Barrel into the Hotend fixture with 4 m4x8-12 screws
 		Look through the holes of the Fixture to lighn the holes upproperly.
 		Be carful when screwing the scrws in to make sure everything is aligned properly so that you do not damage the threads of the Barrel.
 
-Step three: 	Put the pellet screw in the hotend barrel.
+Step three: 	Put the pellet screw in the hotend barrel. You need to have the rotor facing the front for this.
 		Use 4 m3x50 screws to connect the hotend fixture to the funnel, pellet reservoir and motor plate and tighten them down.
+		Tighten the motor side of the coupler as much as you can, as said earlier I recommend getting torx screws to not have an issue with stripping them.
 
 Step four:	Use 2 m3x18-20 screws to moun theHotend fan to the left side of the printhead.
 
 Step five:	Mount the 2 parts of the hotend cooling duct to the Printhead using 2 m3x6-10 screws.
 
-Step six
+Step six:	Connect the 2 parts of the Part cooling duct with 2 m3x6-10 screws
+
+Step seven:	Moun the part cooling duct on the printhead woth 2 m3x6-10 screws.
+
+Step eight:	Scre the part cooling fan to the Printhead with 3 m3x18-20 screws.
+
+
