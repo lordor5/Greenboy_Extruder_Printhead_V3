@@ -1,0 +1,42 @@
+This guide is still a work in pogress, please wait a feww days until it is complete 
+
+
+
+
+Preparation:
+------------
+Use a small m3 screw to drag the m3 hex nuts into their fixtures.
+
+Assemble the Hotend by isertign the heater and thermistot into the heating block.
+Screw the Heating block onto the Extruder barrel. If it is at a weird angle you can turn it around ans crew it on the other way. If the grub screws need to be on the bottom to have it align properly you can cut a bit of the insulation of the thermistor away to push it in further. Be careful not to cut the wires though.
+You can screw in the nozzle at this point though that can also be done once its fully assembled.
+
+Press the Inlet Rotor on top of the Pellet screw as far down as possible.
+Make sure it is aligned right next to the inlet. 
+After that you can already put the coupler on the screw and tighten it down.
+I suggest getting some torx screws to allow better tightening without stripping the screw.
+The coupler uses m2.5x8 screws.
+
+Press the Pellet hose connector on the pellet hose adapter.
+
+Assembly: 
+------------
+You can use the pictures in the pics folder for reference. 
+
+Step one: 	Screw the Motor plate to the Motor with 4 m3x6-8 screws.
+		Make sure you have the motor oriented the way you want it as you will not be able to chnage this later.
+
+Step two: 	Screw the Hotend Barrel into the Hotend fixture with 4 m4x8-12 screws.
+		Make sure the heating block is pointing backwards.
+		You might need to screpe a bit of material out of the printed part to fit the hotend properly.
+		Look through the holes of the Fixture to lighn the holes upproperly.
+		Be carful when screwing the scrws in to make sure everything is aligned properly so that you do not damage the threads of the Barrel.
+
+Step three: 	Put the pellet screw in the hotend barrel.
+		Use 4 m3x50 screws to connect the hotend fixture to the funnel, pellet reservoir and motor plate and tighten them down.
+
+Step four:	Use 2 m3x18-20 screws to moun theHotend fan to the left side of the printhead.
+
+Step five:	Mount the 2 parts of the hotend cooling duct to the Printhead using 2 m3x6-10 screws.
+
+Step six

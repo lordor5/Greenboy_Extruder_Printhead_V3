@@ -4,7 +4,12 @@ Mandatory:
 
 Main body: 			4x m3x50
 				4x m3 hexnut
+
+Motor plate:			4x m3x
 		
+Hotend fixture: 		4x m4x8-12
+
+
 Part cooling fan:		2x m3x18-20
 
 Part cooling fan duct:		2x m3x6-10
