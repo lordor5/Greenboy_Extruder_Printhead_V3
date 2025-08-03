@@ -5,7 +5,8 @@ This guide is still a work in pogress, please wait a feww days until it is compl
 
 Preparation:
 ------------
-Use a small m3 screw to drag the m3 hex nuts into their fixtures.
+Use a m3 screw to drag the m3 hex nuts into their fixtures.
+If you do not use a z probe you do not use the 3 bottom onesin the mounting plate
 
 Assemble the Hotend by isertign the heater and thermistot into the heating block.
 Screw the Heating block onto the Extruder barrel. If it is at a weird angle you can turn it around ans crew it on the other way. If the grub screws need to be on the bottom to have it align properly you can cut a bit of the insulation of the thermistor away to push it in further. Be careful not to cut the wires though.
@@ -16,6 +17,7 @@ Make sure it is aligned right next to the inlet.
 After that you can already put the coupler on the screw and tighten it down as much as possible.
 I suggest getting some torx screws to allow better tightening without stripping the screw.
 The coupler uses m2.5x8 screws.
+
 
 Press the Pellet hose connector on the pellet hose adapter.
 
@@ -44,6 +46,6 @@ Step six:	Connect the 2 parts of the Part cooling duct with 2 m3x6-10 screws
 
 Step seven:	Moun the part cooling duct on the printhead woth 2 m3x6-10 screws.
 
-Step eight:	Scre the part cooling fan to the Printhead with 3 m3x18-20 screws.
+Step eight:	Screw the part cooling fan to the Printhead with 3 m3x18-20 screws.
 
-
+Step nine: Screw the back latch fixture to the mounting plate with 2 m3x8 srew
