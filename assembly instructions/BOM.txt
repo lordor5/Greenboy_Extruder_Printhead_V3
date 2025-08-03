@@ -22,6 +22,7 @@ Hotend cooling fan duct:	2x m3x6-10
 Mounting plate: 		3x m3x10
 				2x m3x8
 				3x m3 hexnut
+				3x m3 7mm OD shims
 ---------------------------------------------
 
 
