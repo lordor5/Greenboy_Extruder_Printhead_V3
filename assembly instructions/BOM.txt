@@ -4,16 +4,13 @@ Mandatory:
 
 Main body: 			4x m3x50
 				4x m3 hexnut
-
-Motor plate:			4x m3x
 		
 Hotend fixture: 		4x m4x8-12
 
 
 Part cooling fan:		2x m3x18-20
 
-Part cooling fan duct:		2x m3x6-10
-				2x m3x6-10
+Part cooling fan duct:		4x m3x6-10
 
 Hotend cooling fan:		2x m3x18-20
 
@@ -23,6 +20,10 @@ Mounting plate: 		3x m3x10
 				2x m3x8
 				3x m3 hexnut
 				3x m3 7mm OD shims
+
+Front bucket lid:		2x m3x8
+				2x m3 hexnut
+
 ---------------------------------------------
 
 
@@ -41,9 +42,6 @@ Optional:
 
 ---------------------------------------------
 
-Front bucket lid:		2x m3x8
-				2x m3 hexnut
-
 Z probe adapter BL-touch:	3x m3x8
 				2x m3x6
 				5x hexnut
@@ -57,3 +55,6 @@ Z probe adapter cartographer:	3x m3x10
 
 
 ---------------------------------------------
+
+If you notice any issues with this guide, have any questions or need clarifications
+please contact me, preferably in the Greenboy3D discord @alx1234 or alternatively via email at alx.3dp@gmail.com

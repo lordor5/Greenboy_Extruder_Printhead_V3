@@ -8,9 +8,9 @@ Preparation:
 Remove the old toolhead from the printer.
 
 Use a m3 screw to drag the m3 hex nuts into their fixtures.
-If you do not use a z probe you do not use the 3 bottom onesin the mounting plate
+If you do not use a z probe you do not need the 3 bottom ones in the mounting plate
 
-Assemble the Hotend by isertign the heater and thermistot into the heating block.
+Assemble the Hotend by inserting the heater and thermistor into the heating block.
 Screw the Heating block onto the Extruder barrel. If it is at a weird angle you can turn it around ans crew it on the other way. If the grub screws need to be on the bottom to have it align properly you can cut a bit of the insulation of the thermistor away to push it in further. Be careful not to cut the wires though.
 You can screw in the nozzle at this point though that can also be done once its fully assembled.
 
@@ -22,6 +22,7 @@ The coupler uses m2.5x8 screws.
 
 
 Press the Pellet hose connector on the pellet hose adapter.
+If your pellet hose is already the correct size you can also screw the pellet hose connector on it already, but you can also wait till the whole printhead is assembled.
 
 Assembly: 
 ------------
@@ -48,7 +49,7 @@ Step five:	Mount the 2 parts of the hotend cooling duct to the Printhead using 2
 
 Step six:	Connect the 2 parts of the Part cooling duct with 2 m3x6-10 screws
 
-Step seven:	Moun the part cooling duct on the printhead woth 2 m3x6-10 screws.
+Step seven:	Mount the part cooling duct on the printhead woth 2 m3x6-10 screws.
 
 Step eight:	Screw the part cooling fan to the Printhead with 3 m3x18-20 screws.
 
@@ -65,7 +66,7 @@ Step twelve:	Mount the printhead to the mounting plate.
 		secure it in theis position with the back latch.
 
 Step thirteen:	Screw the printhead to the mounting plate with 3 m3x10 screws.
-		You should use shims for these screws
+		You should use shims for these screws to not damage the printed parts.
 		After this step you can remove the back latch and the back latch fixture.
 		This allows you to pull out the screw with the motor and motor plate 
 		without completely disassembling the printhead.
@@ -74,4 +75,19 @@ Step thirteen:	Screw the printhead to the mounting plate with 3 m3x10 screws.
 		if there is material in the screw pull it out as fast as possible as the molten plastics otherwise 
 		can cool down in the cold zone of the extruder barrel causing the screw to get stuck.
 
-Step fourteen:
+Step fourteen:	First insert the bottom front and bucket front parts into the hole on the front of the printhead.
+		Then secure them with the lower and upper front latches. 
+		If you need a lot of force to push the latches in sand them down a bit first.
+		You can also screw the bucket lid on the bucket front at this point if you want. 
+		You can also wait until just befor or during the first print so that you can directly look at the screw.
+
+Step fifteen:	Insert the Pellet hose connector into its place on the right side of the printhead.
+		After that secure it with the top latch. 
+		Be careful to not use too much force for this.
+		Consider sanding it down istead as the holes in the motor plate are one of the weakest parts on the printhead.
+
+
+Congrats! The printhead is now fully assembled!
+
+If you notice any issues with this guide, have any questions or need clarifications
+please contact me, preferably in the Greenboy3D discord @alx1234 or alternatively via email at alx.3dp@gmail.com
