@@ -25,7 +25,7 @@ You can use the pictures in the pics folder for reference.
 
 Step one: 	Screw the Motor plate to the Motor with 4 m3x6-8 screws.
 		Make sure you have the motor oriented the way you want it as you will not be able to chnage this later.
-![](assembly%20instructions/pics/Step%201.png)
+![](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%201.png)
 
 Step two: 	Screw the Hotend Barrel into the Hotend fixture with 4 m4x8-12 screws.
 		Make sure the heating block is pointing backwards.
