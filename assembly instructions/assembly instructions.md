@@ -22,52 +22,76 @@ If your pellet hose is already the correct size you can also screw the pellet ho
 
 You can use the pictures in the pics folder for reference.
 
-Step one: Screw the Motor plate to the Motor with 4 m3x6-8 screws.
+1. **Step one:** Screw the Motor plate to the Motor with 4 m3x6-8 screws.
 Make sure you have the motor oriented the way you want it as you will not be able to chnage this later.
+
 ![Step 1.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%201.png)
 
-Step two: Screw the Hotend Barrel into the Hotend fixture with 4 m4x8-12 screws.
+
+2. **Step two:** Screw the Hotend Barrel into the Hotend fixture with 4 m4x8-12 screws.
 Make sure the heating block is pointing backwards.
 You might need to screpe a bit of material out of the printed part to fit the hotend properly.
 Look through the holes of the Fixture to lighn the holes upproperly.
 Be carful when screwing the scrws in to make sure everything is aligned properly so that you do not damage the threads of the Barrel.
+
 ![Step 2.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%202.png)
 
-Step three: Put the pellet screw in the hotend barrel. You need to have the rotor facing the front for this.
+
+3. **Step three:** Put the pellet screw in the hotend barrel. You need to have the rotor facing the front for this.
 Use 4 m3x50 screws to connect the hotend fixture to the funnel,
 pellet reservoir and motor plate and tighten them down.
 Tighten the motor side of the coupler as much as you can, as said earlier.
 I recommend getting torx screws to not have an issue with stripping them.
+
 ![Step 3.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%203.png)
 
-Step four: Use 2 m3x18-20 screws to moun theHotend fan to the left side of the printhead.
+
+4. **Step four:** Use 2 m3x18-20 screws to moun theHotend fan to the left side of the printhead.
+
 ![Step 4.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%204.png)
-Step five: Mount the 2 parts of the hotend cooling duct to the Printhead using 2 m3x6-10 screws.
+
+
+5. **Step five:** Mount the 2 parts of the hotend cooling duct to the Printhead using 2 m3x6-10 screws.
+
 ![Step 5.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%205.png)
 
-Step six: Connect the 2 parts of the Part cooling duct with 2 m3x6-10 screws
+
+6. **Step six:** Connect the 2 parts of the Part cooling duct with 2 m3x6-10 screws
+
 ![Step 6.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%206.png)
-Step seven: Mount the part cooling duct on the printhead woth 2 m3x6-10 screws.
+
+
+7. **Step seven:** Mount the part cooling duct on the printhead woth 2 m3x6-10 screws.
+
 ![Step 7.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%207.png)
-Step eight: Screw the part cooling fan to the Printhead with 3 m3x18-20 screws.
+
+
+8. **Step eight:** Screw the part cooling fan to the Printhead with 3 m3x18-20 screws.
+
 ![Step 8.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%208.png)
 
-Step nine: Screw the back latch fixture to the mounting plate with 2 m3x8 srew
+
+9. **Step nine:** Screw the back latch fixture to the mounting plate with 2 m3x8 srew
+
 ![Step 9.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%209.png)
 
-Step ten: If you are using a z probe mount the Z-probe to the Z-probe mount and screw it to the mounting plate.
+
+10. **Step ten:** If you are using a z probe mount the Z-probe to the Z-probe mount and screw it to the mounting plate.
 There are different screws used for this, consult the BOM to find out wich ones you need.
+
 ![Step 10.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2010.png)
 
-Step eleven: Mount the Mounting plate to the printhead.
+11. **Step eleven:** Mount the Mounting plate to the printhead.
 Depending on your printer this needs different screws, consult the BOM for this.
 
-Step twelve: Mount the printhead to the mounting plate.
+12. **Step twelve:** Mount the printhead to the mounting plate.
 Set it on the bottom hook first and then rotate it back flat onto the mounting plate.
 secure it in theis position with the back latch.
+
 ![Step 12.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2012.png)
 
-Step thirteen: Screw the printhead to the mounting plate with 3 m3x10 screws.
+
+13. **Step thirteen:** Screw the printhead to the mounting plate with 3 m3x10 screws.
 You should use shims for these screws to not damage the printed parts.
 After this step you can remove the back latch and the back latch fixture.
 This allows you to pull out the screw with the motor and motor plate
@@ -76,20 +100,28 @@ You just loosen the 4 m3x5 screws from the bottom until they are pulled out of t
 Then you can lift the motor up while the hotend is hot.
 if there is material in the screw pull it out as fast as possible as the molten plastics otherwise
 can cool down in the cold zone of the extruder barrel causing the screw to get stuck.
+
 ![Step 13.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2013.png)
-Step fourteen: First insert the bottom front and bucket front parts into the hole on the front of the printhead.
+
+
+14. **Step fourteen:** First insert the bottom front and bucket front parts into the hole on the front of the printhead.
 Then secure them with the lower and upper front latches.
 If you need a lot of force to push the latches in sand them down a bit first.
 You can also screw the bucket lid on the bucket front at this point if you want.
 You can also wait until just befor or during the first print so that you can directly look at the screw.
+
 ![Step 14.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2014.png)
 
-Step fifteen: Insert the Pellet hose connector into its place on the right side of the printhead.
+
+15. **Step fifteen:** Insert the Pellet hose connector into its place on the right side of the printhead.
 After that secure it with the top latch.
 Be careful to not use too much force for this.
 Consider sanding it down istead as the holes in the motor plate are one of the weakest parts on the printhead.
+
 ![Step 15.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2015.png)
 
+
+---
 Congrats! The printhead is now fully assembled!
 
 If you notice any issues with this guide, have any questions or need clarifications
