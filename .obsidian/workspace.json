@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assembly instructions/BOM.md",
+                "file": "assembly instructions/assembly instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BOM"
+              "title": "assembly instructions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assembly instructions/BOM.md",
+                "file": "assembly instructions/assembly instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de BOM"
+              "title": "Enlaces entrantes de assembly instructions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assembly instructions/BOM.md",
+                "file": "assembly instructions/assembly instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de BOM"
+              "title": "Enlaces salientes de assembly instructions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assembly instructions/BOM.md",
+                "file": "assembly instructions/assembly instructions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de BOM"
+              "title": "Esquema de assembly instructions"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "ecc19c99df130245",
   "lastOpenFiles": [
-    "assembly instructions/assembly instructions.md",
     "assembly instructions/BOM.md",
+    "assembly instructions/assembly instructions.md",
     "assembly instructions/pics/Step 1.png"
   ]
 }
