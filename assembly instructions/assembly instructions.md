@@ -106,7 +106,7 @@ I recommend getting torx screws to not have an issue with stripping them.
 10. **Step ten:** If you are using a z probe mount the Z-probe to the Z-probe mount and screw it to the mounting plate.
 There are different screws used for this, consult the BOM to find out wich ones you need.
 
-![Step 10.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2010.png)
+![Step 10.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2010%20.png)
 
 
 
@@ -119,7 +119,7 @@ Depending on your printer this needs different screws, consult the BOM for this.
 Set it on the bottom hook first and then rotate it back flat onto the mounting plate.
 secure it in theis position with the back latch.
 
-![Step 12.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2012.png)
+![Step 12.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2012%20.png)
 
 
 
@@ -135,7 +135,7 @@ Then you can lift the motor up while the hotend is hot.
 if there is material in the screw pull it out as fast as possible as the molten plastics otherwise
 can cool down in the cold zone of the extruder barrel causing the screw to get stuck.
 
-![Step 13.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2013.png)
+![Step 13.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2013%20.png)
 
 
 
@@ -147,7 +147,7 @@ If you need a lot of force to push the latches in sand them down a bit first.
 You can also screw the bucket lid on the bucket front at this point if you want.
 You can also wait until just befor or during the first print so that you can directly look at the screw.
 
-![Step 14.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2014.png)
+![Step 14.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2014%20.png)
 
 
 
@@ -158,7 +158,7 @@ After that secure it with the top latch.
 Be careful to not use too much force for this.
 Consider sanding it down istead as the holes in the motor plate are one of the weakest parts on the printhead.
 
-![Step 15.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2015.png)
+![Step 15.png](https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3/blob/main/assembly%20instructions/pics/Step%2015%20.png)
 
 
 
